@@ -6,8 +6,8 @@ function Snack (){
 
   return (
     <div>
-      <h1>This is {name}</h1>
-      <Link to="/">Go home</Link>
+      <h1>Here's your {name}</h1>
+      <Link to="/">Back to Menu</Link>
     </div>
   );
 }
